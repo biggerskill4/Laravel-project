@@ -1,0 +1,13 @@
+/* login page */
+@import url("login.css");
+/* registration page */
+@import url("registration.css");
+/* table page */
+/* @import url("table.css"); */
+
+
+body{
+  font-family: Helvetica;
+  -webkit-font-smoothing: antialiased;
+  background-color: #080710;
+}
